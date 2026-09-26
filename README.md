@@ -99,7 +99,7 @@ Through this project, I learned:
 
 ## 👨‍💻 Author
 
-**Adinath Patil**
+**Aditya Bhosle**
 
 Data Analyst | Power BI | SQL | Python | Machine Learning
 
